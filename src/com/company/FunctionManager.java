@@ -35,7 +35,7 @@ public class FunctionManager {
                 biggest = humans[i];
             }
         }
-        return biggest.getFirstName();
+        return biggest.getLastName();
     }
 
     //seventh function
